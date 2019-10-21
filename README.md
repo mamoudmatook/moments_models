@@ -2,7 +2,7 @@
     make sure you are using python3.6 or above "python --vesrion"
     pip3 install opencv-contrib-python
     pip3 install Pillow
-    pip3 instal pip3 install scipy==1.1.0 --user
+    pip3 install scipy==1.1.0 --user
     pip3 install torch==1.3.0+cpu torchvision==0.4.1+cpu \
     -f https://download.pytorch.org/whl/torch_stable.html
     note: if you wanted to install cuda-supported torch or another version of torch
