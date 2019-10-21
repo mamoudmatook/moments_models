@@ -1,3 +1,15 @@
+# requirements
+    make sure you are using python3.6 or above "python --vesrion"
+    pip3 install opencv-contrib-python
+    pip3 install Pillow
+    pip3 instal pip3 install scipy==1.1.0 --user
+    pip3 install torch==1.3.0+cpu torchvision==0.4.1+cpu \
+    -f https://download.pytorch.org/whl/torch_stable.html
+    note: if you wanted to install cuda-supported torch or another version of torch
+    link:https://pytorch.org/get-started/locally/
+    pip3 install moviepy
+    pip3 install pyyaml
+
 # Pretrained models for Moments in Time Dataset
 
 We release the pre-trained models trained on [Moments in Time](http://moments.csail.mit.edu/).
